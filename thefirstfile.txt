@@ -1,3 +1,4 @@
 Hello. This is the first line in the thefirstfile.txt
 1) qwerty
 2) 123
+3) Изменение добавлено через GitHub. Нужно загрузить в локальное хранилище
